@@ -1,4 +1,4 @@
-db = 'banka2019_janos'
+db = 'sem2019_katjam'
 host = 'baza.fmf.uni-lj.si'
-user = 'javnost'
-password = 'javnogeslo'
+user = 'katjam'
+password = 'Kmar.1306'
